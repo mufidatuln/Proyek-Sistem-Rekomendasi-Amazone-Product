@@ -75,7 +75,12 @@ Berdasarkan hasil tersebut dapat disimpulkan bahwa tiga kategori utama teratas a
 
 Dengan melihat tabel ini, kita dapat melihat kategori utama yang diperingkat berdasarkan peringkat rata-rata. Kategori utama dengan peringkat tertinggi adalah Produk Kantor, Mainan & Permainan, dan Perbaikan Rumah, dengan peringkat di atas 4,0. Hal ini menunjukkan bahwa pelanggan pada umumnya puas dengan produk yang ditawarkan dalam kategori-kategori ini.
 
+## Data Preparation
+Pada bagian ini Anda menerapkan dan menyebutkan teknik data preparation yang dilakukan. Teknik yang digunakan pada notebook dan laporan harus berurutan.
 
+**Rubrik/Kriteria Tambahan (Opsional)**: 
+- Menjelaskan proses data preparation yang dilakukan
+- Menjelaskan alasan mengapa diperlukan tahapan data preparation tersebut.
 
 
 
