@@ -57,7 +57,7 @@ Project ini menggunakan data yang bersumber pada sebuah situs kaggle, yaitu [Ama
 ## Data Visualisasi
 
 ### Distribusi Data
-[Gambar 1. Distribusi Data](https://raw.githubusercontent.com/mufidatuln/Proyek-Sistem-Rekomendasi-Amazone-Product/main/aset/Gambar%201.%20Distribusi%20Data.PNG)
+![Gambar 1. Distribusi Data](https://raw.githubusercontent.com/mufidatuln/Proyek-Sistem-Rekomendasi-Amazone-Product/main/aset/Gambar%201.%20Distribusi%20Data.PNG)
 
 Berikut adalah visualisasi persebaran data numeric dari dataset produk amazone. Dapat dilihat pada fitur `discount_price`, `actual_price` dan `rating_count` memiliki distribusi data miring ke kanan.
 
@@ -65,13 +65,13 @@ Sedangka untuk fitur `discount_presentage` dan `rating` memilki distribusi hampi
 
 ### Distribusi Produk Kategori Utama
 
-[Gambar 2. Distribusi Produk Kategori Utama](https://raw.githubusercontent.com/mufidatuln/Proyek-Sistem-Rekomendasi-Amazone-Product/main/aset/Gambar%202.%20Distribusi%20Kategori%20Produk%20Utama.PNG)
+![Gambar 2. Distribusi Produk Kategori Utama](https://raw.githubusercontent.com/mufidatuln/Proyek-Sistem-Rekomendasi-Amazone-Product/main/aset/Gambar%202.%20Distribusi%20Kategori%20Produk%20Utama.PNG)
 
 Berdasarkan hasil tersebut dapat disimpulkan bahwa tiga kategori utama teratas adalah Elektronik, Komputer & Aksesori, dan Rumah & Dapur. Hal ini menunjukkan bahwa kategori-kategori ini populer di kalangan pelanggan. Jumlah produk dalam kategori utama lainnya cukup rendah, yang menunjukkan bahwa kategori-kategori ini tidak sepopuler tiga kategori teratas.
 
 ### Top Kategori Utama Berdasarkan Rating
 
-[Gambar 3. Top Kategori Utama](https://raw.githubusercontent.com/mufidatuln/Proyek-Sistem-Rekomendasi-Amazone-Product/main/aset/Gambar%203.%20Top%20Kategori%20Utama%20Berdasarkan%20Rating.PNG)
+![Gambar 3. Top Kategori Utama](https://raw.githubusercontent.com/mufidatuln/Proyek-Sistem-Rekomendasi-Amazone-Product/main/aset/Gambar%203.%20Top%20Kategori%20Utama%20Berdasarkan%20Rating.PNG)
 
 Dengan melihat tabel ini, kita dapat melihat kategori utama yang diperingkat berdasarkan peringkat rata-rata. Kategori utama dengan peringkat tertinggi adalah Produk Kantor, Mainan & Permainan, dan Perbaikan Rumah, dengan peringkat di atas 4,0. Hal ini menunjukkan bahwa pelanggan pada umumnya puas dengan produk yang ditawarkan dalam kategori-kategori ini.
 
