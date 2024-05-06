@@ -179,6 +179,9 @@ Evaluasi yang dilakukan dalam proyek Conten Based Filtering adalah metrik *Avera
 
 Tabel 1. Evaluasi Avarage precision
 |  Avarage precision |  1.0 |
+|---|---|
+
+
 Pada proyek ini *Avarage precision* memperoleh nilai 1 yang artinya menuntukan kualitas rekomendasi yang baik.
 
 Sedangkan untuk model *Collaborative Filtering* evaluasi metrik yang digunakan antara lain :
